@@ -26,4 +26,4 @@ The code consists of several functions and structures to handle different aspect
 
 The code uses standard C library functions such as `scanf`, `fgets`, `strcpy`, and `strcmp` to handle input, string manipulation, and comparison operations.
 
-Overall, this code provides a basic implementation of a library management system with functionalities for adding books, issuing and returning books, searching for books, modifying book information, and displaying information. However, it does not include features like data persistence or user authentication, which can be added as extensions to enhance the functionality and security of the system.
+Overall, this code provides a basic implementation of a library management system with functionalities for adding books, issuing and returning books, searching for books, modifying book information, and displaying information.
